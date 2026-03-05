@@ -27,7 +27,7 @@ contract SafeProxyFactory {
         "CreateProxy(address paymentToken,uint256 payment,address paymentReceiver)"
     );
 
-    string public constant NAME = "Polymarket Contract Proxy Factory";
+    string public constant NAME = "Goldex Contract Proxy Factory";
 
     /* STRUCTS */
 
